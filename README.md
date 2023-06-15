@@ -1,15 +1,21 @@
 # Attendance Checking
 
 Utilizing computer vision and machine learning algorithms to automate the process of attendance checking
+</br>
+
+
+
+https://github.com/thaileqt/attendance-checking/assets/75875212/d8192a6e-03f2-42f3-bf1f-def649436076
+
 
 ## Try it out
 
 Clone this repository to your local machine using the following command
 ```bash
-$ git clone .
-$ cd 
+$ git clone https://github.com/thaileqt/attendance-checking.git
+$ cd attendance-checking
 ```
-Manually install and run the project 
+Manually install and run the project (I'm using python 3.10.11)
 ```bash
 $ pip install -r requirements.txt
 $ streamlit run app.py
